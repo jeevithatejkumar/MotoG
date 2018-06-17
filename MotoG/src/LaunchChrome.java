@@ -20,7 +20,7 @@ public class LaunchChrome
 		
 		System.out.println("Page title is "+title);
 		
-		String url = driver.getCurrentURL();
+		String url = driver.getCurrentUrl();
 		
 		System.out.println("The page current url is: "+url);
 		
