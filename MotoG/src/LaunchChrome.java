@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class LaunchChrome 
 {
 	//Comment from Eclipse
+	//Comment from Github
 	public static void main(String[] args) throws InterruptedException 
 	{
 		WebDriver driver = new ChromeDriver();
