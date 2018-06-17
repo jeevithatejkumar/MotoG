@@ -24,6 +24,11 @@ public class LaunchChrome
 		
 		System.out.println("The page current url is: "+url);
 		
+		
+		//Comment added regarging wait time for 2 seconds
+		Thread.sleep(2000);
+		
+		
 		driver.close();
 
 	}
